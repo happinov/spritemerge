@@ -1,0 +1,17 @@
+{
+  "name": "spritemerge",
+  "version": "1.0.0",
+  "description": "Merge png files to create a spritesheet.",
+  "main": "index.js",
+  "author": "Happinov",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "coffee-script": "^1.12.3",
+    "debug": "^2.6.0",
+    "lodash": "^4.17.4"
+  },
+  "bin": {
+    "spritemerge": "bin/spritemerge.js"
+  }
+}
