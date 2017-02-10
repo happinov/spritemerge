@@ -6,7 +6,7 @@
   "author": "Happinov",
   "license": "GPL-2.0",
   "dependencies": {
-    "canvas": "^1.6.2",
+    "canvas-prebuilt": "^1.6.0",
     "coffee-script": "^1.12.3",
     "debug": "^2.6.0",
     "lodash": "^4.17.4"

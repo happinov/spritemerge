@@ -2,7 +2,7 @@
 _ = require 'lodash'
 fs = require 'fs'
 Path = require 'path'
-Canvas = require 'canvas'
+Canvas = require 'canvas-prebuilt'
 Image = Canvas.Image
 
 debug = require('debug')('spritemerge')
